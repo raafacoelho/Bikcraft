@@ -46,4 +46,4 @@ O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a 
 
 # Projeto Final
 
-<img src='./img/bikcraft.gif>
+<img src='./img/bikcraft.gif'>
